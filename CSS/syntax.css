@@ -1,9 +1,8 @@
-article{
-    text-decoration: underline
+h1{
+    font-weight: 900
 }
 
-
-
-a{
-    text-decoration: none;
+p{
+    font-weight: bolder;
+    font-family: "Yu Gothic";
 }
