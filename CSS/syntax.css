@@ -1,10 +1,7 @@
-a:hover{
-    color: red;
-}
-a:active{
-    color: green;
+article p:first-child{
+    font-weight: bold;
 }
 
-a:visited{
-    color: yellow;
+article p:last-child{
+    color: red;
 }
