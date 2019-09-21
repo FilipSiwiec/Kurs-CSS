@@ -1,3 +1,10 @@
 a:hover{
     color: red;
 }
+a:active{
+    color: green;
+}
+
+a:visited{
+    color: yellow;
+}
