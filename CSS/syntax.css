@@ -1,16 +1,15 @@
-body{
+#main-content p{
     color: red;
 }
 
-div{
+p{
     color: blue;
 }
 
-p{
+.test{
     color: green;
 }
 
-a{
-    color: yellow;
-    text-decoration: underline;
+strong{
+    color: green;
 }
