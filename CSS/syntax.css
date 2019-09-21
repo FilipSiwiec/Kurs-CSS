@@ -1,3 +1,6 @@
-article:nth-of-type(4){
-    background: grey;
+article.featured-content{
+    background: red;
+}
+div.featured-content{
+    background: blue;
 }
