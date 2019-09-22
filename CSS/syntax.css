@@ -1,8 +1,8 @@
-.static-width{
-    width: 300px;
+#banner{
+    background-color:#606060;
+    width: 100%;
     height: 300px;
-    background: url(https://vignette.wikia.nocookie.net/twoja-twarz-brzmi-znajomo/images/f/f4/Slashstudiosept2018_638.jpg/revision/latest?cb=20190501052556&path-prefix=pl)top center no-repeat;
-    background-color: #606060;
-    background-size: 200px;
+    background-image: url(https://www.joelgrimesworkshops.com/store/backgrounds/images/signature-backgrounds/Harley-Background@2x.jpg), url(https://pe-images.s3.amazonaws.com/type/effects/cc/transparent-background/new-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center, top left;
 }
-
