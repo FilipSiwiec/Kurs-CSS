@@ -1,11 +1,5 @@
-a{
-    color: crimson;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-a:hover{
-    color: darkmagenta;
-    text-decoration: underline;
-    background-color: aquamarine;
+p{
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 1,5em;
 }
